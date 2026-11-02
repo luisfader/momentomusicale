@@ -43,7 +43,7 @@ window.CANZONI = [
     voce: "La città triste",
     scena: "Fuga per le strade · seconda versione",
     capitolo: "Cap. 5–6 · Pericolo in piazza",
-    nota: "La stessa notte, un'altra strada. Seconda versione del brano.",
+    nota: "La stessa notte, la stessa fuga: seconda versione del brano, con lo stesso testo.",
     durata: "3:01"
   },
   {
