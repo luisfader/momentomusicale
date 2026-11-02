@@ -20,7 +20,16 @@ window.CANZONI = [
     durata: "2:56"
   },
   {
-    id: "03-corsa-nella-notte",
+    id: "03-sorrido-senza-paura",
+    titolo: "Sorrido senza paura",
+    voce: "Chiara",
+    scena: "La festa segreta",
+    capitolo: "Cap. 4 · La riunione segreta e il caffè",
+    nota: "Lontano dalle telecamere, Chiara canta e sorride come se nessuno potesse vietarlo. Franco la guarda e capisce che non tornerà più indietro.",
+    durata: "2:45"
+  },
+  {
+    id: "04-corsa-nella-notte",
     titolo: "Corsa nella notte",
     voce: "La città triste",
     scena: "Fuga per le strade",
@@ -29,7 +38,7 @@ window.CANZONI = [
     durata: "2:50"
   },
   {
-    id: "04-corsa-nella-notte-ii",
+    id: "05-corsa-nella-notte-ii",
     titolo: "Corsa nella notte (II)",
     voce: "La città triste",
     scena: "Fuga per le strade · seconda versione",
@@ -38,7 +47,7 @@ window.CANZONI = [
     durata: "3:01"
   },
   {
-    id: "05-inno-di-sinea",
+    id: "06-inno-di-sinea",
     titolo: "Inno di Sinea",
     voce: "La città triste",
     scena: "Piazza Grande",

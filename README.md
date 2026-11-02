@@ -12,9 +12,10 @@ Il sito è statico e pronto per GitHub Pages: la città è grigia e piove; quand
 |---|--------|-------------------|------|
 | 1 | Tre fermate dopo | La metro di Sinea (cap. 1–2) | `audio/01-tre-fermate-dopo.mp3` |
 | 2 | L’amore è sorridere | La riunione segreta (cap. 3–4) | `audio/02-l-amore-e-sorridere.mp3` |
-| 3 | Corsa nella notte | Fuga per le strade (cap. 5–6) | `audio/03-corsa-nella-notte.mp3` |
-| 4 | Corsa nella notte (II) | Seconda versione | `audio/04-corsa-nella-notte-ii.mp3` |
-| 5 | Inno di Sinea | Piazza Grande (cap. 8–9) | `audio/05-inno-di-sinea.mp3` |
+| 3 | Sorrido senza paura | La festa segreta, canta Chiara (cap. 4) | `audio/03-sorrido-senza-paura.mp3` |
+| 4 | Corsa nella notte | Fuga per le strade (cap. 5–6) | `audio/04-corsa-nella-notte.mp3` |
+| 5 | Corsa nella notte (II) | Seconda versione | `audio/05-corsa-nella-notte-ii.mp3` |
+| 6 | Inno di Sinea | Piazza Grande (cap. 8–9) | `audio/06-inno-di-sinea.mp3` |
 
 ## Struttura
 
