@@ -40,8 +40,10 @@
         if (txt) {
           html = txt.split(/\n\s*\n/).map((st) => {
             const lines = st.split("\n").map((l) => esc(l.trim()));
-            const isChorus = /^\*\*?rit/i.test(st) || /^\[rit/i.test(st);
-            return `<p class="${isChorus ? "chorus" : ""}">${lines.join("<br>").replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>").replace(/\*(.+?)\*/g, "<em>$1</em>")}</p>`;
+            const m = lines[0].match(/^\[(.+)\]$/);
+            const label = m ? lines.shift() && m[1] : "";
+            const isChorus = /^rit/i.test(label);
+            return `<p class="${isChorus ? "chorus" : ""}">${label ? `<span class="label">${label}</span>` : ""}${lines.join("<br>").replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>").replace(/\*(.+?)\*/g, "<em>$1</em>")}</p>`;
           }).join("");
         }
       }

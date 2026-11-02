@@ -88,6 +88,7 @@ h1 em { font-weight: 500; color: var(--accent); transition: color 1.2s; }
 .lyrics h2 { font: 700 34px var(--serif); margin: 0 0 16px; color: var(--accent); transition: color 1.2s; }
 .lyrics-body p { font: 500 20px/1.5 var(--serif); margin: 0 0 18px; }
 .lyrics-body .chorus { padding-left: 14px; border-left: 2px solid var(--accent); font-style: italic; }
+.lyrics-body .label { display: block; font: 600 11px var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--muted); font-style: normal; margin-bottom: 4px; }
 .muted { color: var(--muted); }
 
 .foot { color: var(--muted); font-size: 13px; padding-top: 32px; padding-bottom: 32px; }

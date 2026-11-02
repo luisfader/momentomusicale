@@ -13,10 +13,10 @@ window.CANZONI = [
   {
     id: "02-l-amore-e-sorridere",
     titolo: "L’amore è sorridere",
-    voce: "La città triste",
+    voce: "Chiara",
     scena: "La riunione segreta",
     capitolo: "Cap. 3–4 · L'invito segreto",
-    nota: "In una cantina, lontano dalle telecamere, qualcuno osa cantare quello che in superficie è vietato.",
+    nota: "Chiara ripensa al treno sotto la pioggia, alla pizza, alla paura quando cantava: l'amore è sorridere anche quando è vietato.",
     durata: "2:56"
   },
   {
