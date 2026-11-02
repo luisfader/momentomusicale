@@ -15,7 +15,8 @@ Il sito è statico e pronto per GitHub Pages: la città è grigia e piove; quand
 | 3 | Sorrido senza paura | La festa segreta, canta Chiara (cap. 4) | `audio/03-sorrido-senza-paura.mp3` |
 | 4 | Corsa nella notte | Fuga per le strade (cap. 5–6) | `audio/04-corsa-nella-notte.mp3` |
 | 5 | Corsa nella notte (II) | Seconda versione | `audio/05-corsa-nella-notte-ii.mp3` |
-| 6 | Inno di Sinea | Piazza Grande (cap. 8–9) | `audio/06-inno-di-sinea.mp3` |
+| 6 | Se si spegne, canta! | La vecchia Fiat di papà, Chiara e suo fratello | `audio/06-se-si-spegne-canta.mp3` |
+| 7 | Inno di Sinea | Piazza Grande (cap. 8–9) | `audio/07-inno-di-sinea.mp3` |
 
 ## Struttura
 

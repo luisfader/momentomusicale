@@ -47,7 +47,16 @@ window.CANZONI = [
     durata: "3:01"
   },
   {
-    id: "06-inno-di-sinea",
+    id: "06-se-si-spegne-canta",
+    titolo: "Se si spegne, canta!",
+    voce: "Chiara",
+    scena: "La vecchia Fiat di papà",
+    capitolo: "Il duello · Chiara e suo fratello",
+    nota: "La Fiat dietro al mercato si spegne venti volte, e venti volte si canta. Era il gioco di Chiara e di suo fratello: oggi è la canzone che lo fa ridere di nuovo.",
+    durata: "2:42"
+  },
+  {
+    id: "07-inno-di-sinea",
     titolo: "Inno di Sinea",
     voce: "La città triste",
     scena: "Piazza Grande",
