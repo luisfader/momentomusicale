@@ -25,7 +25,7 @@ window.CANZONI = [
     voce: "Chiara",
     scena: "La festa segreta",
     capitolo: "Cap. 4 · La riunione segreta e il caffè",
-    nota: "Lontano dalle telecamere, Chiara canta e sorride come se nessuno potesse vietarlo. Franco la guarda e capisce che non tornerà più indietro.",
+    nota: "Strade grigie, occhi bassi, silenzio. Ma dentro qualcuno c'è un fuoco che non muore: ridere e cantare, anche se ti guardano male.",
     durata: "2:45"
   },
   {
